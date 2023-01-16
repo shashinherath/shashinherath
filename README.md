@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-**shashinherath/shashinherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> I'm Shashin, an undergraduate and full-stack developer 👨‍💻 </h3>
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> 💻 Tech Stack: </h2>
+## My Skill Set and Tech Stack: 
 
 > Tools and technologies that I have worked with and am interested in
 <table>
@@ -125,11 +125,11 @@ Here are some ideas to get you started:
  </tr>
 </table>
 
-# 📊 GitHub Stats:
+## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shashinherath&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <br/>
 
- ![Snake animation](https://github.com/shashinherath/shashinherath/blob/output/github-contribution-grid-snake.svg)
+## My Contribution Graph
+![Snake animation](https://github.com/shashinherath/shashinherath/blob/output/github-contribution-grid-snake.svg)
