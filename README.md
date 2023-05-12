@@ -132,4 +132,21 @@
 </div>
 
 ## Connect with me:
-<a href="https://github.com/shashinherath"><img src="https://img.icons8.com/?size=512&id=63777&format=png" height="30px"> GitHub </a>
+<table>
+  <tr>
+    <td> <img src="https://img.icons8.com/?size=512&id=63777&format=png" height="30px"> </td>
+    <td> <a href="https://github.com/shashinherath"> GitHub </a> </td>
+  </tr>
+  <tr>
+    <td> <img src="https://img.icons8.com/?size=512&id=13930&format=png" height="30px"> </td>
+    <td> <a href="https://www.linkedin.com/in/shashin-herath"> LinkedIn </a> </td>
+  </tr>
+  <tr>
+    <td> <img src="https://img.icons8.com/?size=512&id=13955&format=png" height="30px"> </td>
+    <td> <a href="https://stackoverflow.com/users/20285881/shashin-herath"> StackOverflow </a> </td>
+  </tr>
+  <tr>
+    <td> <img src="https://img.icons8.com/?size=512&id=118497&format=png" height="30px"> </td>
+    <td> <a href="https://web.facebook.com/shashinmalinda.herath"> Facebook </a> </td>
+  </tr>
+</table>
