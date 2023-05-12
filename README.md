@@ -2,7 +2,7 @@
 
 <h3> I'm Shashin, an undergraduate and front-end developer </h3>
 
-Here are some ideas to get you started:
+> Here are some ideas to get you started:
 
 "As an ICT undergraduate, I am passionate about using code to solve everyday problems. I believe that technology can make a real impact on people's lives, and I am excited to be part of that process. On my GitHub profile, you'll find a variety of projects I've worked on, ranging from small scripts to larger applications. Feel free to take a look and let me know what you think!"
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## My Skill Set and Tech Stack: 
 
 > Tools and technologies that I have worked with and am interested in
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -118,10 +118,11 @@ Here are some ideas to get you started:
 </table>
 
 ## My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashinherath&theme=radical&hide_border=false)<br/><br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashinherath&theme=radical&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</div>
 
 ## My Contribution Graph
 ![Snake animation](https://github.com/shashinherath/shashinherath/blob/output/github-contribution-grid-snake.svg)
