@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-<h3> I'm Shashin, an undergraduate and front-end developer 👨‍💻 </h3>
+<h3> I'm Shashin, an undergraduate and front-end developer </h3>
 
 Here are some ideas to get you started:
 
