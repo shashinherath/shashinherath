@@ -61,8 +61,8 @@
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -85,8 +85,8 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="Mongo" />
+      <br>Mongo
     </td>
   </tr>
  <tr>
