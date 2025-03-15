@@ -122,6 +122,10 @@
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Idea" />
+      <br>IntelliJ
+    </td>
  </tr>
 </table>
 
