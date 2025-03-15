@@ -91,7 +91,7 @@
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="Node" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
       <br>Node
     </td>
         <td align="center" width="96">
