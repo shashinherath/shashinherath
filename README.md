@@ -35,8 +35,8 @@
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -47,8 +47,8 @@
       <br>Rest
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
     </td>
   </tr>
   <tr>
