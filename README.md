@@ -149,12 +149,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinherath&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
-## My Contribution Graph:
-> Here is my contribution graph with a snake game:
-<div align="center">
-  <img src="https://github.com/shashinherath/shashinherath/blob/output/github-contribution-grid-snake-dark.svg">
-</div>
-
 ## Connect with me:
 <table>
   <tr>
