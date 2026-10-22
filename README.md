@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="48" height="48" alt="Git" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="48" height="48" alt=".net" />
       <br>.NET
     </td>
     <td align="center" width="96"> 
@@ -119,8 +119,8 @@
       <br>MySQL
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" width="48" height="48" alt="jquery" />
+      <br>Redis
     </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
@@ -131,8 +131,12 @@
       <br>Azure
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="Idea" />
-      <br>IntelliJ
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="48" height="48" alt="Idea" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" width="48" height="48" alt="Idea" />
+      <br>Fast API
     </td>
  </tr>
 </table>
