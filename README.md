@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/179427e4-b65d-4c28-a600-8a9558ce74d5" />## Hi there!!!
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/04b80662-6355-4bb2-a969-52ef7c21b6f6" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/179427e4-b65d-4c28-a600-8a9558ce74d5" />## Hi there!!!
 
 <h3> I'm Shashin, an undergraduate, and a full-stack developer </h3>
 
@@ -45,6 +45,14 @@
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" alt="icon" width="65" height="65" />
       <br>Docker
+    </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Vite
+    </td>
+        <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Angular-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Angular
     </td>
   </tr>
   <tr>
