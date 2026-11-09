@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/04b80662-6355-4bb2-a969-52ef7c21b6f6" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/179427e4-b65d-4c28-a600-8a9558ce74d5" />## Hi there!!!
+## Hi there!!!
 
 <h3> I'm Shashin, an undergraduate, and a full-stack developer </h3>
 
